@@ -1,5 +1,16 @@
 nothing
 =======
+
+
+-----V2-----
+
+lot of new features is this release !!!
+nothing was completly redesigned, enjoy
+
+
+------V1---
+
+
 this is a test repo, you may not find anything usefull here.
 Celeste has made some minor changes. Thanks to her.
 
